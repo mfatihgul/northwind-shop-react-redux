@@ -1,0 +1,6 @@
+db.json dosyası Github Profiler içinde api/db.json
+json dosyasını izlemek için önce api klasörüne gidip ardından:
+    json-server --watch db.json
+yazmalısın.
+
+json-server'ı 3000'inci portta, React 3001'de çalışıyor
